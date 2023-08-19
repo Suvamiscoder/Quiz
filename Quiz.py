@@ -48,3 +48,4 @@ else:
     print("Wrong Answer!!   Try Again..")
     
     print("You got "+ str(score)+ "marks")
+    print("You got "+ str(score/6*100)+ "%")
